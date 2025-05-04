@@ -26,7 +26,7 @@ Users can select a specialization, view the regression plot, and get salary pred
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/ML-DevSalaryPredictor.git
+git clone https://github.com/yourusername/ML-DevSalaryEstimator.git
 cd ML-DevSalaryPredictor
 ```
 
