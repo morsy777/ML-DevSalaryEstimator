@@ -49,8 +49,8 @@ Follow the on-screen prompts to select a field and enter experience to see the p
 ```
 DevSalaryPredictor/
 │
-├── salary_predictor.py       # Main interactive script
-└── README.md                 # Project documentation
+├── SoftComputingProjectEdited.ipynb       # Main interactive script
+└── README.md                              # Project documentation
 ```
 
 ## 📊 Example Usage
