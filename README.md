@@ -39,7 +39,7 @@ pip install numpy pandas matplotlib scikit-learn
 ### 3. Run the script
 
 ```bash
-python salary_predictor.py
+python SoftComputingProjectEdited.ipynb
 ```
 
 Follow the on-screen prompts to select a field and enter experience to see the predicted salary.
